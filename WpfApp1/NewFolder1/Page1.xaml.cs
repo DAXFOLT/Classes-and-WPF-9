@@ -1,13 +1,26 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using Classes_And_WPF.Classes;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
 
-namespace Wpf.View.Pages
+namespace WpfApp1.NewFolder1
 {
-    public partial class Page16 : Page
+    /// <summary>
+    /// Логика взаимодействия для Page1.xaml
+    /// </summary>
+    public partial class Page1 : Page
     {
-        public Page16()
+        public Page1()
         {
             InitializeComponent();
         }

@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Classes_and_WPF_9.Classes;
 
 namespace Classes_and_WPF_9
 {
     internal class Program
     {
-        static void Main(string[] args)
+        
         public static void Main(string[] args)
         {
             Console.WriteLine("Практическая работа №9");
